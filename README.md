@@ -7,7 +7,7 @@ git clone https://github.com/Darshshah23/SLAM-Gmapping.git
 # return to catkin_ws root
 cd ../ 
 ```
-2. ** Build the workspace and activate it.**
+2.  Build the workspace and activate it.
 ```
 catkin_make
 source devel/setup.bash
